@@ -1,0 +1,2 @@
+db_info = {'name':'db_customuser', 'username':'admin_wps', 'password':'goqlt5857', 'host':'customuser.ctj0650ag7ks.ap-northeast-2.rds.amazonaws.com'}
+aws_info = {'id':'AKIAZR3IWTCZWC4AV645', 'key':'vIUnzAdaMdgJMjuQUKtSuyJBRBYZbrRk9S2ItyxL'}
